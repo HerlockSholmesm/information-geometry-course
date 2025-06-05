@@ -23,12 +23,10 @@ Each session includes a brief overview, a YouTube lecture, and downloadable slid
 
 | Session | Title                                                 | Slides                                 | YouTube        |
 |--------:|-------------------------------------------------------|----------------------------------------|----------------|
-| 1       | Information, Estimation, and Geometry                 | [PDF](assets/slides/session1.pdf)      | `VIDEO_ID_1`   |
-| 2       | Gaussian Mixtures & Geometric Tools                   | [PDF](assets/slides/session2.pdf)      | `VIDEO_ID_2`   |
-| 3       | Dual Connections and Dually Flat Spaces               | [PDF](assets/slides/session3.pdf)      | `VIDEO_ID_3`   |
-| 4       | EM Algorithm and Natural Gradient                     | [PDF](assets/slides/session4.pdf)      | `VIDEO_ID_4`   |
+| 1       | Information, Estimation, and Geometry                 | [PDF](assets/slides/session1.pdf)      | `[VIDEO_ID_1](https://www.youtube.com/watch?v=9BPdrJVjOHA&list=PLSPy7-TwtzXV7Mc2Q2L5q-T1R1jEG8uzr&index=1)`   |
+| 2       | Gaussian Mixtures & Geometric Tools                   | [PDF](assets/slides/session2.pdf)      | `[VIDEO_ID_2](https://www.youtube.com/watch?v=9BPdrJVjOHA&list=PLSPy7-TwtzXV7Mc2Q2L5q-T1R1jEG8uzr&index=2)`   |
+| 3       | Dual Connections and Dually Flat Spaces               | [PDF](assets/slides/session3.pdf)      | `[VIDEO_ID_3](https://www.youtube.com/watch?v=9BPdrJVjOHA&list=PLSPy7-TwtzXV7Mc2Q2L5q-T1R1jEG8uzr&index=3)`   |
+| 4       | EM Algorithm and Natural Gradient                     | [PDF](assets/slides/session4.pdf)      | `[VIDEO_ID_4](https://www.youtube.com/watch?v=9BPdrJVjOHA&list=PLSPy7-TwtzXV7Mc2Q2L5q-T1R1jEG8uzr&index=4)`   |
 | 5       | Optimal Transport Meets Information Geometry          | [PDF](assets/slides/session5.pdf)      | `VIDEO_ID_5`   |
 
-> Replace the `VIDEO_ID_x` with actual YouTube links if publishing this README separately.
 
-## 🗂 Repository Structure
