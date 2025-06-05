@@ -5,7 +5,7 @@ This repository contains the official website and resources for the graduate-lev
 ## 🌐 Website
 
 View the course site here:  
-➡️ [https://your-username.github.io/information-geometry-course](https://your-username.github.io/information-geometry-course)
+➡️ [https://herlocksholmesm.github.io/information-geometry-course](https://herlocksholmesm.github.io/information-geometry-course)
 
 ## 📄 Overview
 
